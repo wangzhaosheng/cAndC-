@@ -3,45 +3,52 @@
 
 CMakeFiles/untitled.dir/array_pointer.c.o: ../array_pointer.c
 
-CMakeFiles/untitled.dir/demo/arrayToPointer.c.o: ../demo/arrayToPointer.c
+CMakeFiles/untitled.dir/demoC/arrayToPointer.c.o: ../demoC/arrayToPointer.c
 
-CMakeFiles/untitled.dir/demo/arraycopy.c.o: ../demo/arraycopy.c
-CMakeFiles/untitled.dir/demo/arraycopy.c.o: ../demo/arraycopy.h
+CMakeFiles/untitled.dir/demoC/arraycopy.c.o: ../demoC/arraycopy.c
+CMakeFiles/untitled.dir/demoC/arraycopy.c.o: ../demoC/arraycopy.h
 
-CMakeFiles/untitled.dir/demo/const.c.o: ../demo/const.c
+CMakeFiles/untitled.dir/demoC/const.c.o: ../demoC/const.c
 
-CMakeFiles/untitled.dir/demo/deleteSpace.c.o: ../demo/deleteSpace.c
-CMakeFiles/untitled.dir/demo/deleteSpace.c.o: ../demo/deleteSpace.h
+CMakeFiles/untitled.dir/demoC/deleteSpace.c.o: ../demoC/deleteSpace.c
+CMakeFiles/untitled.dir/demoC/deleteSpace.c.o: ../demoC/deleteSpace.h
 
-CMakeFiles/untitled.dir/demo/extern/externEvery.c.o: ../demo/extern/externEvery.c
-CMakeFiles/untitled.dir/demo/extern/externEvery.c.o: ../demo/extern/externEvery.h
+CMakeFiles/untitled.dir/demoC/extern/externEvery.c.o: ../demoC/extern/externEvery.c
+CMakeFiles/untitled.dir/demoC/extern/externEvery.c.o: ../demoC/extern/externEvery.h
 
-CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o: ../demo/extern/externEvery.h
-CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o: ../demo/extern/externEvery2.c
-CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o: ../demo/extern/externEvery2.h
+CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o: ../demoC/extern/externEvery.h
+CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o: ../demoC/extern/externEvery2.c
+CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o: ../demoC/extern/externEvery2.h
 
-CMakeFiles/untitled.dir/demo/fileOperation.c.o: ../demo/fileOperation.c
-CMakeFiles/untitled.dir/demo/fileOperation.c.o: ../demo/structAll.h
+CMakeFiles/untitled.dir/demoC/fileOperation.c.o: ../demoC/fileOperation.c
+CMakeFiles/untitled.dir/demoC/fileOperation.c.o: ../demoC/structAll.h
 
-CMakeFiles/untitled.dir/demo/findStr.c.o: ../demo/findStr.c
+CMakeFiles/untitled.dir/demoC/findStr.c.o: ../demoC/findStr.c
 
-CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.o: ../demo/localVariableStaticAll.c
+CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.o: ../demoC/localVariableStaticAll.c
 
-CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.o: ../demo/mallocAndMemFun.c
+CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.o: ../demoC/mallocAndMemFun.c
 
-CMakeFiles/untitled.dir/demo/printEvery.c.o: ../demo/printEvery.c
+CMakeFiles/untitled.dir/demoC/printEvery.c.o: ../demoC/printEvery.c
 
-CMakeFiles/untitled.dir/demo/sizeof.c.o: ../demo/sizeof.c
+CMakeFiles/untitled.dir/demoC/sizeof.c.o: ../demoC/sizeof.c
 
-CMakeFiles/untitled.dir/demo/strCharArrayChange.c.o: ../demo/strCharArrayChange.c
+CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.o: ../demoC/strCharArrayChange.c
 
-CMakeFiles/untitled.dir/demo/stringmethod.c.o: ../demo/stringmethod.c
+CMakeFiles/untitled.dir/demoC/stringmethod.c.o: ../demoC/stringmethod.c
 
-CMakeFiles/untitled.dir/demo/structAll.c.o: ../demo/structAll.c
-CMakeFiles/untitled.dir/demo/structAll.c.o: ../demo/structAll.h
+CMakeFiles/untitled.dir/demoC/structAll.c.o: ../demoC/structAll.c
+CMakeFiles/untitled.dir/demoC/structAll.c.o: ../demoC/structAll.h
 
-CMakeFiles/untitled.dir/demo/swap.c.o: ../demo/swap.c
-CMakeFiles/untitled.dir/demo/swap.c.o: ../demo/swap.h
+CMakeFiles/untitled.dir/demoC/swap.c.o: ../demoC/swap.c
+CMakeFiles/untitled.dir/demoC/swap.c.o: ../demoC/swap.h
+
+CMakeFiles/untitled.dir/demoC++/emun.cpp.o: ../demoC++/emun.cpp
+
+CMakeFiles/untitled.dir/demoC++/namespace.cpp.o: ../demoC++/namespace.cpp
+CMakeFiles/untitled.dir/demoC++/namespace.cpp.o: ../demoC++/namespace.h
+
+CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o: ../demoC++/yinYongInC++.cpp
 
 CMakeFiles/untitled.dir/main.cpp.o: ../main.cpp
 

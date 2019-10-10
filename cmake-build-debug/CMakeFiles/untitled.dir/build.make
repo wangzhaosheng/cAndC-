@@ -83,259 +83,304 @@ CMakeFiles/untitled.dir/array_pointer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/array_pointer.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/array_pointer.c -o CMakeFiles/untitled.dir/array_pointer.c.s
 
-CMakeFiles/untitled.dir/demo/swap.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/swap.c.o: ../demo/swap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/untitled.dir/demo/swap.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/swap.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/swap.c
+CMakeFiles/untitled.dir/demoC/swap.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/swap.c.o: ../demoC/swap.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/untitled.dir/demoC/swap.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/swap.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/swap.c
 
-CMakeFiles/untitled.dir/demo/swap.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/swap.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/swap.c > CMakeFiles/untitled.dir/demo/swap.c.i
+CMakeFiles/untitled.dir/demoC/swap.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/swap.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/swap.c > CMakeFiles/untitled.dir/demoC/swap.c.i
 
-CMakeFiles/untitled.dir/demo/swap.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/swap.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/swap.c -o CMakeFiles/untitled.dir/demo/swap.c.s
+CMakeFiles/untitled.dir/demoC/swap.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/swap.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/swap.c -o CMakeFiles/untitled.dir/demoC/swap.c.s
 
-CMakeFiles/untitled.dir/demo/arraycopy.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/arraycopy.c.o: ../demo/arraycopy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/untitled.dir/demo/arraycopy.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/arraycopy.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/arraycopy.c
+CMakeFiles/untitled.dir/demoC/arraycopy.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/arraycopy.c.o: ../demoC/arraycopy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/untitled.dir/demoC/arraycopy.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/arraycopy.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/arraycopy.c
 
-CMakeFiles/untitled.dir/demo/arraycopy.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/arraycopy.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/arraycopy.c > CMakeFiles/untitled.dir/demo/arraycopy.c.i
+CMakeFiles/untitled.dir/demoC/arraycopy.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/arraycopy.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/arraycopy.c > CMakeFiles/untitled.dir/demoC/arraycopy.c.i
 
-CMakeFiles/untitled.dir/demo/arraycopy.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/arraycopy.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/arraycopy.c -o CMakeFiles/untitled.dir/demo/arraycopy.c.s
+CMakeFiles/untitled.dir/demoC/arraycopy.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/arraycopy.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/arraycopy.c -o CMakeFiles/untitled.dir/demoC/arraycopy.c.s
 
-CMakeFiles/untitled.dir/demo/deleteSpace.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/deleteSpace.c.o: ../demo/deleteSpace.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/untitled.dir/demo/deleteSpace.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/deleteSpace.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/deleteSpace.c
+CMakeFiles/untitled.dir/demoC/deleteSpace.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/deleteSpace.c.o: ../demoC/deleteSpace.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/untitled.dir/demoC/deleteSpace.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/deleteSpace.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/deleteSpace.c
 
-CMakeFiles/untitled.dir/demo/deleteSpace.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/deleteSpace.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/deleteSpace.c > CMakeFiles/untitled.dir/demo/deleteSpace.c.i
+CMakeFiles/untitled.dir/demoC/deleteSpace.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/deleteSpace.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/deleteSpace.c > CMakeFiles/untitled.dir/demoC/deleteSpace.c.i
 
-CMakeFiles/untitled.dir/demo/deleteSpace.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/deleteSpace.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/deleteSpace.c -o CMakeFiles/untitled.dir/demo/deleteSpace.c.s
+CMakeFiles/untitled.dir/demoC/deleteSpace.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/deleteSpace.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/deleteSpace.c -o CMakeFiles/untitled.dir/demoC/deleteSpace.c.s
 
-CMakeFiles/untitled.dir/demo/sizeof.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/sizeof.c.o: ../demo/sizeof.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/untitled.dir/demo/sizeof.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/sizeof.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/sizeof.c
+CMakeFiles/untitled.dir/demoC/sizeof.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/sizeof.c.o: ../demoC/sizeof.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/untitled.dir/demoC/sizeof.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/sizeof.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/sizeof.c
 
-CMakeFiles/untitled.dir/demo/sizeof.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/sizeof.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/sizeof.c > CMakeFiles/untitled.dir/demo/sizeof.c.i
+CMakeFiles/untitled.dir/demoC/sizeof.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/sizeof.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/sizeof.c > CMakeFiles/untitled.dir/demoC/sizeof.c.i
 
-CMakeFiles/untitled.dir/demo/sizeof.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/sizeof.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/sizeof.c -o CMakeFiles/untitled.dir/demo/sizeof.c.s
+CMakeFiles/untitled.dir/demoC/sizeof.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/sizeof.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/sizeof.c -o CMakeFiles/untitled.dir/demoC/sizeof.c.s
 
-CMakeFiles/untitled.dir/demo/printEvery.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/printEvery.c.o: ../demo/printEvery.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/untitled.dir/demo/printEvery.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/printEvery.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/printEvery.c
+CMakeFiles/untitled.dir/demoC/printEvery.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/printEvery.c.o: ../demoC/printEvery.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/untitled.dir/demoC/printEvery.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/printEvery.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/printEvery.c
 
-CMakeFiles/untitled.dir/demo/printEvery.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/printEvery.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/printEvery.c > CMakeFiles/untitled.dir/demo/printEvery.c.i
+CMakeFiles/untitled.dir/demoC/printEvery.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/printEvery.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/printEvery.c > CMakeFiles/untitled.dir/demoC/printEvery.c.i
 
-CMakeFiles/untitled.dir/demo/printEvery.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/printEvery.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/printEvery.c -o CMakeFiles/untitled.dir/demo/printEvery.c.s
+CMakeFiles/untitled.dir/demoC/printEvery.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/printEvery.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/printEvery.c -o CMakeFiles/untitled.dir/demoC/printEvery.c.s
 
-CMakeFiles/untitled.dir/demo/arrayToPointer.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/arrayToPointer.c.o: ../demo/arrayToPointer.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/untitled.dir/demo/arrayToPointer.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/arrayToPointer.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/arrayToPointer.c
+CMakeFiles/untitled.dir/demoC/arrayToPointer.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/arrayToPointer.c.o: ../demoC/arrayToPointer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/untitled.dir/demoC/arrayToPointer.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/arrayToPointer.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/arrayToPointer.c
 
-CMakeFiles/untitled.dir/demo/arrayToPointer.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/arrayToPointer.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/arrayToPointer.c > CMakeFiles/untitled.dir/demo/arrayToPointer.c.i
+CMakeFiles/untitled.dir/demoC/arrayToPointer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/arrayToPointer.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/arrayToPointer.c > CMakeFiles/untitled.dir/demoC/arrayToPointer.c.i
 
-CMakeFiles/untitled.dir/demo/arrayToPointer.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/arrayToPointer.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/arrayToPointer.c -o CMakeFiles/untitled.dir/demo/arrayToPointer.c.s
+CMakeFiles/untitled.dir/demoC/arrayToPointer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/arrayToPointer.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/arrayToPointer.c -o CMakeFiles/untitled.dir/demoC/arrayToPointer.c.s
 
-CMakeFiles/untitled.dir/demo/const.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/const.c.o: ../demo/const.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/untitled.dir/demo/const.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/const.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/const.c
+CMakeFiles/untitled.dir/demoC/const.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/const.c.o: ../demoC/const.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/untitled.dir/demoC/const.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/const.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/const.c
 
-CMakeFiles/untitled.dir/demo/const.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/const.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/const.c > CMakeFiles/untitled.dir/demo/const.c.i
+CMakeFiles/untitled.dir/demoC/const.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/const.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/const.c > CMakeFiles/untitled.dir/demoC/const.c.i
 
-CMakeFiles/untitled.dir/demo/const.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/const.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/const.c -o CMakeFiles/untitled.dir/demo/const.c.s
+CMakeFiles/untitled.dir/demoC/const.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/const.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/const.c -o CMakeFiles/untitled.dir/demoC/const.c.s
 
-CMakeFiles/untitled.dir/demo/findStr.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/findStr.c.o: ../demo/findStr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/untitled.dir/demo/findStr.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/findStr.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/findStr.c
+CMakeFiles/untitled.dir/demoC/findStr.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/findStr.c.o: ../demoC/findStr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/untitled.dir/demoC/findStr.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/findStr.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/findStr.c
 
-CMakeFiles/untitled.dir/demo/findStr.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/findStr.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/findStr.c > CMakeFiles/untitled.dir/demo/findStr.c.i
+CMakeFiles/untitled.dir/demoC/findStr.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/findStr.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/findStr.c > CMakeFiles/untitled.dir/demoC/findStr.c.i
 
-CMakeFiles/untitled.dir/demo/findStr.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/findStr.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/findStr.c -o CMakeFiles/untitled.dir/demo/findStr.c.s
+CMakeFiles/untitled.dir/demoC/findStr.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/findStr.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/findStr.c -o CMakeFiles/untitled.dir/demoC/findStr.c.s
 
-CMakeFiles/untitled.dir/demo/stringmethod.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/stringmethod.c.o: ../demo/stringmethod.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/untitled.dir/demo/stringmethod.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/stringmethod.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/stringmethod.c
+CMakeFiles/untitled.dir/demoC/stringmethod.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/stringmethod.c.o: ../demoC/stringmethod.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/untitled.dir/demoC/stringmethod.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/stringmethod.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/stringmethod.c
 
-CMakeFiles/untitled.dir/demo/stringmethod.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/stringmethod.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/stringmethod.c > CMakeFiles/untitled.dir/demo/stringmethod.c.i
+CMakeFiles/untitled.dir/demoC/stringmethod.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/stringmethod.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/stringmethod.c > CMakeFiles/untitled.dir/demoC/stringmethod.c.i
 
-CMakeFiles/untitled.dir/demo/stringmethod.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/stringmethod.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/stringmethod.c -o CMakeFiles/untitled.dir/demo/stringmethod.c.s
+CMakeFiles/untitled.dir/demoC/stringmethod.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/stringmethod.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/stringmethod.c -o CMakeFiles/untitled.dir/demoC/stringmethod.c.s
 
-CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.o: ../demo/localVariableStaticAll.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/localVariableStaticAll.c
+CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.o: ../demoC/localVariableStaticAll.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/localVariableStaticAll.c
 
-CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/localVariableStaticAll.c > CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.i
+CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/localVariableStaticAll.c > CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.i
 
-CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/localVariableStaticAll.c -o CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.s
+CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/localVariableStaticAll.c -o CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.s
 
-CMakeFiles/untitled.dir/demo/extern/externEvery.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/extern/externEvery.c.o: ../demo/extern/externEvery.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/untitled.dir/demo/extern/externEvery.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/extern/externEvery.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery.c
+CMakeFiles/untitled.dir/demoC/extern/externEvery.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/extern/externEvery.c.o: ../demoC/extern/externEvery.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/untitled.dir/demoC/extern/externEvery.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/extern/externEvery.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/extern/externEvery.c
 
-CMakeFiles/untitled.dir/demo/extern/externEvery.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/extern/externEvery.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery.c > CMakeFiles/untitled.dir/demo/extern/externEvery.c.i
+CMakeFiles/untitled.dir/demoC/extern/externEvery.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/extern/externEvery.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/extern/externEvery.c > CMakeFiles/untitled.dir/demoC/extern/externEvery.c.i
 
-CMakeFiles/untitled.dir/demo/extern/externEvery.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/extern/externEvery.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery.c -o CMakeFiles/untitled.dir/demo/extern/externEvery.c.s
+CMakeFiles/untitled.dir/demoC/extern/externEvery.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/extern/externEvery.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/extern/externEvery.c -o CMakeFiles/untitled.dir/demoC/extern/externEvery.c.s
 
-CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o: ../demo/extern/externEvery2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery2.c
+CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o: ../demoC/extern/externEvery2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/extern/externEvery2.c
 
-CMakeFiles/untitled.dir/demo/extern/externEvery2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/extern/externEvery2.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery2.c > CMakeFiles/untitled.dir/demo/extern/externEvery2.c.i
+CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/extern/externEvery2.c > CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.i
 
-CMakeFiles/untitled.dir/demo/extern/externEvery2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/extern/externEvery2.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery2.c -o CMakeFiles/untitled.dir/demo/extern/externEvery2.c.s
+CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/extern/externEvery2.c -o CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.s
 
-CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.o: ../demo/mallocAndMemFun.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/mallocAndMemFun.c
+CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.o: ../demoC/mallocAndMemFun.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/mallocAndMemFun.c
 
-CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/mallocAndMemFun.c > CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.i
+CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/mallocAndMemFun.c > CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.i
 
-CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/mallocAndMemFun.c -o CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.s
+CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/mallocAndMemFun.c -o CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.s
 
-CMakeFiles/untitled.dir/demo/strCharArrayChange.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/strCharArrayChange.c.o: ../demo/strCharArrayChange.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/untitled.dir/demo/strCharArrayChange.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/strCharArrayChange.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/strCharArrayChange.c
+CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.o: ../demoC/strCharArrayChange.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/strCharArrayChange.c
 
-CMakeFiles/untitled.dir/demo/strCharArrayChange.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/strCharArrayChange.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/strCharArrayChange.c > CMakeFiles/untitled.dir/demo/strCharArrayChange.c.i
+CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/strCharArrayChange.c > CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.i
 
-CMakeFiles/untitled.dir/demo/strCharArrayChange.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/strCharArrayChange.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/strCharArrayChange.c -o CMakeFiles/untitled.dir/demo/strCharArrayChange.c.s
+CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/strCharArrayChange.c -o CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.s
 
-CMakeFiles/untitled.dir/demo/structAll.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/structAll.c.o: ../demo/structAll.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/untitled.dir/demo/structAll.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/structAll.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/structAll.c
+CMakeFiles/untitled.dir/demoC/structAll.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/structAll.c.o: ../demoC/structAll.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/untitled.dir/demoC/structAll.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/structAll.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/structAll.c
 
-CMakeFiles/untitled.dir/demo/structAll.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/structAll.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/structAll.c > CMakeFiles/untitled.dir/demo/structAll.c.i
+CMakeFiles/untitled.dir/demoC/structAll.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/structAll.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/structAll.c > CMakeFiles/untitled.dir/demoC/structAll.c.i
 
-CMakeFiles/untitled.dir/demo/structAll.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/structAll.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/structAll.c -o CMakeFiles/untitled.dir/demo/structAll.c.s
+CMakeFiles/untitled.dir/demoC/structAll.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/structAll.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/structAll.c -o CMakeFiles/untitled.dir/demoC/structAll.c.s
 
-CMakeFiles/untitled.dir/demo/fileOperation.c.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/demo/fileOperation.c.o: ../demo/fileOperation.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/untitled.dir/demo/fileOperation.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demo/fileOperation.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demo/fileOperation.c
+CMakeFiles/untitled.dir/demoC/fileOperation.c.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC/fileOperation.c.o: ../demoC/fileOperation.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/untitled.dir/demoC/fileOperation.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled.dir/demoC/fileOperation.c.o   -c /home/wangzhaosheng/CLionProjects/untitled/demoC/fileOperation.c
 
-CMakeFiles/untitled.dir/demo/fileOperation.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demo/fileOperation.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demo/fileOperation.c > CMakeFiles/untitled.dir/demo/fileOperation.c.i
+CMakeFiles/untitled.dir/demoC/fileOperation.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/demoC/fileOperation.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC/fileOperation.c > CMakeFiles/untitled.dir/demoC/fileOperation.c.i
 
-CMakeFiles/untitled.dir/demo/fileOperation.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demo/fileOperation.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demo/fileOperation.c -o CMakeFiles/untitled.dir/demo/fileOperation.c.s
+CMakeFiles/untitled.dir/demoC/fileOperation.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/demoC/fileOperation.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC/fileOperation.c -o CMakeFiles/untitled.dir/demoC/fileOperation.c.s
+
+CMakeFiles/untitled.dir/demoC++/namespace.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC++/namespace.cpp.o: ../demoC++/namespace.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/untitled.dir/demoC++/namespace.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/demoC++/namespace.cpp.o -c /home/wangzhaosheng/CLionProjects/untitled/demoC++/namespace.cpp
+
+CMakeFiles/untitled.dir/demoC++/namespace.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/demoC++/namespace.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC++/namespace.cpp > CMakeFiles/untitled.dir/demoC++/namespace.cpp.i
+
+CMakeFiles/untitled.dir/demoC++/namespace.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/demoC++/namespace.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC++/namespace.cpp -o CMakeFiles/untitled.dir/demoC++/namespace.cpp.s
+
+CMakeFiles/untitled.dir/demoC++/emun.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC++/emun.cpp.o: ../demoC++/emun.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/untitled.dir/demoC++/emun.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/demoC++/emun.cpp.o -c /home/wangzhaosheng/CLionProjects/untitled/demoC++/emun.cpp
+
+CMakeFiles/untitled.dir/demoC++/emun.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/demoC++/emun.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC++/emun.cpp > CMakeFiles/untitled.dir/demoC++/emun.cpp.i
+
+CMakeFiles/untitled.dir/demoC++/emun.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/demoC++/emun.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC++/emun.cpp -o CMakeFiles/untitled.dir/demoC++/emun.cpp.s
+
+CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o: ../demoC++/yinYongInC++.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o -c /home/wangzhaosheng/CLionProjects/untitled/demoC++/yinYongInC++.cpp
+
+CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC++/yinYongInC++.cpp > CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.i
+
+CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC++/yinYongInC++.cpp -o CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.o" \
 "CMakeFiles/untitled.dir/array_pointer.c.o" \
-"CMakeFiles/untitled.dir/demo/swap.c.o" \
-"CMakeFiles/untitled.dir/demo/arraycopy.c.o" \
-"CMakeFiles/untitled.dir/demo/deleteSpace.c.o" \
-"CMakeFiles/untitled.dir/demo/sizeof.c.o" \
-"CMakeFiles/untitled.dir/demo/printEvery.c.o" \
-"CMakeFiles/untitled.dir/demo/arrayToPointer.c.o" \
-"CMakeFiles/untitled.dir/demo/const.c.o" \
-"CMakeFiles/untitled.dir/demo/findStr.c.o" \
-"CMakeFiles/untitled.dir/demo/stringmethod.c.o" \
-"CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.o" \
-"CMakeFiles/untitled.dir/demo/extern/externEvery.c.o" \
-"CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o" \
-"CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.o" \
-"CMakeFiles/untitled.dir/demo/strCharArrayChange.c.o" \
-"CMakeFiles/untitled.dir/demo/structAll.c.o" \
-"CMakeFiles/untitled.dir/demo/fileOperation.c.o"
+"CMakeFiles/untitled.dir/demoC/swap.c.o" \
+"CMakeFiles/untitled.dir/demoC/arraycopy.c.o" \
+"CMakeFiles/untitled.dir/demoC/deleteSpace.c.o" \
+"CMakeFiles/untitled.dir/demoC/sizeof.c.o" \
+"CMakeFiles/untitled.dir/demoC/printEvery.c.o" \
+"CMakeFiles/untitled.dir/demoC/arrayToPointer.c.o" \
+"CMakeFiles/untitled.dir/demoC/const.c.o" \
+"CMakeFiles/untitled.dir/demoC/findStr.c.o" \
+"CMakeFiles/untitled.dir/demoC/stringmethod.c.o" \
+"CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.o" \
+"CMakeFiles/untitled.dir/demoC/extern/externEvery.c.o" \
+"CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o" \
+"CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.o" \
+"CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.o" \
+"CMakeFiles/untitled.dir/demoC/structAll.c.o" \
+"CMakeFiles/untitled.dir/demoC/fileOperation.c.o" \
+"CMakeFiles/untitled.dir/demoC++/namespace.cpp.o" \
+"CMakeFiles/untitled.dir/demoC++/emun.cpp.o" \
+"CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
 
 untitled: CMakeFiles/untitled.dir/main.cpp.o
 untitled: CMakeFiles/untitled.dir/array_pointer.c.o
-untitled: CMakeFiles/untitled.dir/demo/swap.c.o
-untitled: CMakeFiles/untitled.dir/demo/arraycopy.c.o
-untitled: CMakeFiles/untitled.dir/demo/deleteSpace.c.o
-untitled: CMakeFiles/untitled.dir/demo/sizeof.c.o
-untitled: CMakeFiles/untitled.dir/demo/printEvery.c.o
-untitled: CMakeFiles/untitled.dir/demo/arrayToPointer.c.o
-untitled: CMakeFiles/untitled.dir/demo/const.c.o
-untitled: CMakeFiles/untitled.dir/demo/findStr.c.o
-untitled: CMakeFiles/untitled.dir/demo/stringmethod.c.o
-untitled: CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.o
-untitled: CMakeFiles/untitled.dir/demo/extern/externEvery.c.o
-untitled: CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o
-untitled: CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.o
-untitled: CMakeFiles/untitled.dir/demo/strCharArrayChange.c.o
-untitled: CMakeFiles/untitled.dir/demo/structAll.c.o
-untitled: CMakeFiles/untitled.dir/demo/fileOperation.c.o
+untitled: CMakeFiles/untitled.dir/demoC/swap.c.o
+untitled: CMakeFiles/untitled.dir/demoC/arraycopy.c.o
+untitled: CMakeFiles/untitled.dir/demoC/deleteSpace.c.o
+untitled: CMakeFiles/untitled.dir/demoC/sizeof.c.o
+untitled: CMakeFiles/untitled.dir/demoC/printEvery.c.o
+untitled: CMakeFiles/untitled.dir/demoC/arrayToPointer.c.o
+untitled: CMakeFiles/untitled.dir/demoC/const.c.o
+untitled: CMakeFiles/untitled.dir/demoC/findStr.c.o
+untitled: CMakeFiles/untitled.dir/demoC/stringmethod.c.o
+untitled: CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.o
+untitled: CMakeFiles/untitled.dir/demoC/extern/externEvery.c.o
+untitled: CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o
+untitled: CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.o
+untitled: CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.o
+untitled: CMakeFiles/untitled.dir/demoC/structAll.c.o
+untitled: CMakeFiles/untitled.dir/demoC/fileOperation.c.o
+untitled: CMakeFiles/untitled.dir/demoC++/namespace.cpp.o
+untitled: CMakeFiles/untitled.dir/demoC++/emun.cpp.o
+untitled: CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

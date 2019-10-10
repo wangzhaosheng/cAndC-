@@ -9,7 +9,7 @@ void canChange3();
 
 void canChange(const char *ch);
 
-void main09121602() {
+void main0912() {
 
     canChange3();
     char ch[] = "qwer";
@@ -31,8 +31,8 @@ void canChange3() {
 
 }
 
-void canChange(const char *ch) { //todo const修饰 char *代表不能修改指针指向的值,  const修饰ch,不能修改ch指向的字符数组
-
+void canChange(const char *ch) { //todo const修饰 char *代表不能修改指针指向的值的内容,  const修饰ch,不能修改ch的指向
+    ch="sdf";
 //    *ch ='1';语法错误
 
     char *ch3 = ch;//todo 虽然ch中的值被const修饰不能改,但是用其他指针指向他又能改了
@@ -48,5 +48,6 @@ void canChange(const char *ch);
 void canChange2(char *const ch) { //todo const修饰 char *代表不能修改指针指向的值,  const修饰ch,不能修改ch指向的字符数组
 
 //    ch = "sdf"; 语法错误
+
 
 }

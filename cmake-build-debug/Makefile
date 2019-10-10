@@ -150,437 +150,518 @@ array_pointer.c.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/array_pointer.c.s
 .PHONY : array_pointer.c.s
 
-demo/arrayToPointer.o: demo/arrayToPointer.c.o
+demoC++/emun.o: demoC++/emun.cpp.o
 
-.PHONY : demo/arrayToPointer.o
-
-# target to build an object file
-demo/arrayToPointer.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/arrayToPointer.c.o
-.PHONY : demo/arrayToPointer.c.o
-
-demo/arrayToPointer.i: demo/arrayToPointer.c.i
-
-.PHONY : demo/arrayToPointer.i
-
-# target to preprocess a source file
-demo/arrayToPointer.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/arrayToPointer.c.i
-.PHONY : demo/arrayToPointer.c.i
-
-demo/arrayToPointer.s: demo/arrayToPointer.c.s
-
-.PHONY : demo/arrayToPointer.s
-
-# target to generate assembly for a file
-demo/arrayToPointer.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/arrayToPointer.c.s
-.PHONY : demo/arrayToPointer.c.s
-
-demo/arraycopy.o: demo/arraycopy.c.o
-
-.PHONY : demo/arraycopy.o
+.PHONY : demoC++/emun.o
 
 # target to build an object file
-demo/arraycopy.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/arraycopy.c.o
-.PHONY : demo/arraycopy.c.o
+demoC++/emun.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/emun.cpp.o
+.PHONY : demoC++/emun.cpp.o
 
-demo/arraycopy.i: demo/arraycopy.c.i
+demoC++/emun.i: demoC++/emun.cpp.i
 
-.PHONY : demo/arraycopy.i
+.PHONY : demoC++/emun.i
 
 # target to preprocess a source file
-demo/arraycopy.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/arraycopy.c.i
-.PHONY : demo/arraycopy.c.i
+demoC++/emun.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/emun.cpp.i
+.PHONY : demoC++/emun.cpp.i
 
-demo/arraycopy.s: demo/arraycopy.c.s
+demoC++/emun.s: demoC++/emun.cpp.s
 
-.PHONY : demo/arraycopy.s
+.PHONY : demoC++/emun.s
 
 # target to generate assembly for a file
-demo/arraycopy.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/arraycopy.c.s
-.PHONY : demo/arraycopy.c.s
+demoC++/emun.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/emun.cpp.s
+.PHONY : demoC++/emun.cpp.s
 
-demo/const.o: demo/const.c.o
+demoC++/namespace.o: demoC++/namespace.cpp.o
 
-.PHONY : demo/const.o
+.PHONY : demoC++/namespace.o
 
 # target to build an object file
-demo/const.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/const.c.o
-.PHONY : demo/const.c.o
+demoC++/namespace.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/namespace.cpp.o
+.PHONY : demoC++/namespace.cpp.o
 
-demo/const.i: demo/const.c.i
+demoC++/namespace.i: demoC++/namespace.cpp.i
 
-.PHONY : demo/const.i
+.PHONY : demoC++/namespace.i
 
 # target to preprocess a source file
-demo/const.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/const.c.i
-.PHONY : demo/const.c.i
+demoC++/namespace.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/namespace.cpp.i
+.PHONY : demoC++/namespace.cpp.i
 
-demo/const.s: demo/const.c.s
+demoC++/namespace.s: demoC++/namespace.cpp.s
 
-.PHONY : demo/const.s
+.PHONY : demoC++/namespace.s
 
 # target to generate assembly for a file
-demo/const.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/const.c.s
-.PHONY : demo/const.c.s
+demoC++/namespace.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/namespace.cpp.s
+.PHONY : demoC++/namespace.cpp.s
 
-demo/deleteSpace.o: demo/deleteSpace.c.o
+demoC++/yinYongInC++.o: demoC++/yinYongInC++.cpp.o
 
-.PHONY : demo/deleteSpace.o
+.PHONY : demoC++/yinYongInC++.o
 
 # target to build an object file
-demo/deleteSpace.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/deleteSpace.c.o
-.PHONY : demo/deleteSpace.c.o
+demoC++/yinYongInC++.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o
+.PHONY : demoC++/yinYongInC++.cpp.o
 
-demo/deleteSpace.i: demo/deleteSpace.c.i
+demoC++/yinYongInC++.i: demoC++/yinYongInC++.cpp.i
 
-.PHONY : demo/deleteSpace.i
+.PHONY : demoC++/yinYongInC++.i
 
 # target to preprocess a source file
-demo/deleteSpace.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/deleteSpace.c.i
-.PHONY : demo/deleteSpace.c.i
+demoC++/yinYongInC++.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.i
+.PHONY : demoC++/yinYongInC++.cpp.i
 
-demo/deleteSpace.s: demo/deleteSpace.c.s
+demoC++/yinYongInC++.s: demoC++/yinYongInC++.cpp.s
 
-.PHONY : demo/deleteSpace.s
+.PHONY : demoC++/yinYongInC++.s
 
 # target to generate assembly for a file
-demo/deleteSpace.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/deleteSpace.c.s
-.PHONY : demo/deleteSpace.c.s
+demoC++/yinYongInC++.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.s
+.PHONY : demoC++/yinYongInC++.cpp.s
 
-demo/extern/externEvery.o: demo/extern/externEvery.c.o
+demoC/arrayToPointer.o: demoC/arrayToPointer.c.o
 
-.PHONY : demo/extern/externEvery.o
+.PHONY : demoC/arrayToPointer.o
 
 # target to build an object file
-demo/extern/externEvery.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/extern/externEvery.c.o
-.PHONY : demo/extern/externEvery.c.o
+demoC/arrayToPointer.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/arrayToPointer.c.o
+.PHONY : demoC/arrayToPointer.c.o
 
-demo/extern/externEvery.i: demo/extern/externEvery.c.i
+demoC/arrayToPointer.i: demoC/arrayToPointer.c.i
 
-.PHONY : demo/extern/externEvery.i
+.PHONY : demoC/arrayToPointer.i
 
 # target to preprocess a source file
-demo/extern/externEvery.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/extern/externEvery.c.i
-.PHONY : demo/extern/externEvery.c.i
+demoC/arrayToPointer.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/arrayToPointer.c.i
+.PHONY : demoC/arrayToPointer.c.i
 
-demo/extern/externEvery.s: demo/extern/externEvery.c.s
+demoC/arrayToPointer.s: demoC/arrayToPointer.c.s
 
-.PHONY : demo/extern/externEvery.s
+.PHONY : demoC/arrayToPointer.s
 
 # target to generate assembly for a file
-demo/extern/externEvery.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/extern/externEvery.c.s
-.PHONY : demo/extern/externEvery.c.s
+demoC/arrayToPointer.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/arrayToPointer.c.s
+.PHONY : demoC/arrayToPointer.c.s
 
-demo/extern/externEvery2.o: demo/extern/externEvery2.c.o
+demoC/arraycopy.o: demoC/arraycopy.c.o
 
-.PHONY : demo/extern/externEvery2.o
+.PHONY : demoC/arraycopy.o
 
 # target to build an object file
-demo/extern/externEvery2.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/extern/externEvery2.c.o
-.PHONY : demo/extern/externEvery2.c.o
+demoC/arraycopy.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/arraycopy.c.o
+.PHONY : demoC/arraycopy.c.o
 
-demo/extern/externEvery2.i: demo/extern/externEvery2.c.i
+demoC/arraycopy.i: demoC/arraycopy.c.i
 
-.PHONY : demo/extern/externEvery2.i
+.PHONY : demoC/arraycopy.i
 
 # target to preprocess a source file
-demo/extern/externEvery2.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/extern/externEvery2.c.i
-.PHONY : demo/extern/externEvery2.c.i
+demoC/arraycopy.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/arraycopy.c.i
+.PHONY : demoC/arraycopy.c.i
 
-demo/extern/externEvery2.s: demo/extern/externEvery2.c.s
+demoC/arraycopy.s: demoC/arraycopy.c.s
 
-.PHONY : demo/extern/externEvery2.s
+.PHONY : demoC/arraycopy.s
 
 # target to generate assembly for a file
-demo/extern/externEvery2.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/extern/externEvery2.c.s
-.PHONY : demo/extern/externEvery2.c.s
+demoC/arraycopy.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/arraycopy.c.s
+.PHONY : demoC/arraycopy.c.s
 
-demo/fileOperation.o: demo/fileOperation.c.o
+demoC/const.o: demoC/const.c.o
 
-.PHONY : demo/fileOperation.o
+.PHONY : demoC/const.o
 
 # target to build an object file
-demo/fileOperation.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/fileOperation.c.o
-.PHONY : demo/fileOperation.c.o
+demoC/const.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/const.c.o
+.PHONY : demoC/const.c.o
 
-demo/fileOperation.i: demo/fileOperation.c.i
+demoC/const.i: demoC/const.c.i
 
-.PHONY : demo/fileOperation.i
+.PHONY : demoC/const.i
 
 # target to preprocess a source file
-demo/fileOperation.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/fileOperation.c.i
-.PHONY : demo/fileOperation.c.i
+demoC/const.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/const.c.i
+.PHONY : demoC/const.c.i
 
-demo/fileOperation.s: demo/fileOperation.c.s
+demoC/const.s: demoC/const.c.s
 
-.PHONY : demo/fileOperation.s
+.PHONY : demoC/const.s
 
 # target to generate assembly for a file
-demo/fileOperation.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/fileOperation.c.s
-.PHONY : demo/fileOperation.c.s
+demoC/const.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/const.c.s
+.PHONY : demoC/const.c.s
 
-demo/findStr.o: demo/findStr.c.o
+demoC/deleteSpace.o: demoC/deleteSpace.c.o
 
-.PHONY : demo/findStr.o
+.PHONY : demoC/deleteSpace.o
 
 # target to build an object file
-demo/findStr.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/findStr.c.o
-.PHONY : demo/findStr.c.o
+demoC/deleteSpace.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/deleteSpace.c.o
+.PHONY : demoC/deleteSpace.c.o
 
-demo/findStr.i: demo/findStr.c.i
+demoC/deleteSpace.i: demoC/deleteSpace.c.i
 
-.PHONY : demo/findStr.i
+.PHONY : demoC/deleteSpace.i
 
 # target to preprocess a source file
-demo/findStr.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/findStr.c.i
-.PHONY : demo/findStr.c.i
+demoC/deleteSpace.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/deleteSpace.c.i
+.PHONY : demoC/deleteSpace.c.i
 
-demo/findStr.s: demo/findStr.c.s
+demoC/deleteSpace.s: demoC/deleteSpace.c.s
 
-.PHONY : demo/findStr.s
+.PHONY : demoC/deleteSpace.s
 
 # target to generate assembly for a file
-demo/findStr.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/findStr.c.s
-.PHONY : demo/findStr.c.s
+demoC/deleteSpace.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/deleteSpace.c.s
+.PHONY : demoC/deleteSpace.c.s
 
-demo/localVariableStaticAll.o: demo/localVariableStaticAll.c.o
+demoC/extern/externEvery.o: demoC/extern/externEvery.c.o
 
-.PHONY : demo/localVariableStaticAll.o
+.PHONY : demoC/extern/externEvery.o
 
 # target to build an object file
-demo/localVariableStaticAll.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.o
-.PHONY : demo/localVariableStaticAll.c.o
+demoC/extern/externEvery.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/extern/externEvery.c.o
+.PHONY : demoC/extern/externEvery.c.o
 
-demo/localVariableStaticAll.i: demo/localVariableStaticAll.c.i
+demoC/extern/externEvery.i: demoC/extern/externEvery.c.i
 
-.PHONY : demo/localVariableStaticAll.i
+.PHONY : demoC/extern/externEvery.i
 
 # target to preprocess a source file
-demo/localVariableStaticAll.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.i
-.PHONY : demo/localVariableStaticAll.c.i
+demoC/extern/externEvery.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/extern/externEvery.c.i
+.PHONY : demoC/extern/externEvery.c.i
 
-demo/localVariableStaticAll.s: demo/localVariableStaticAll.c.s
+demoC/extern/externEvery.s: demoC/extern/externEvery.c.s
 
-.PHONY : demo/localVariableStaticAll.s
+.PHONY : demoC/extern/externEvery.s
 
 # target to generate assembly for a file
-demo/localVariableStaticAll.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/localVariableStaticAll.c.s
-.PHONY : demo/localVariableStaticAll.c.s
+demoC/extern/externEvery.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/extern/externEvery.c.s
+.PHONY : demoC/extern/externEvery.c.s
 
-demo/mallocAndMemFun.o: demo/mallocAndMemFun.c.o
+demoC/extern/externEvery2.o: demoC/extern/externEvery2.c.o
 
-.PHONY : demo/mallocAndMemFun.o
+.PHONY : demoC/extern/externEvery2.o
 
 # target to build an object file
-demo/mallocAndMemFun.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.o
-.PHONY : demo/mallocAndMemFun.c.o
+demoC/extern/externEvery2.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.o
+.PHONY : demoC/extern/externEvery2.c.o
 
-demo/mallocAndMemFun.i: demo/mallocAndMemFun.c.i
+demoC/extern/externEvery2.i: demoC/extern/externEvery2.c.i
 
-.PHONY : demo/mallocAndMemFun.i
+.PHONY : demoC/extern/externEvery2.i
 
 # target to preprocess a source file
-demo/mallocAndMemFun.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.i
-.PHONY : demo/mallocAndMemFun.c.i
+demoC/extern/externEvery2.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.i
+.PHONY : demoC/extern/externEvery2.c.i
 
-demo/mallocAndMemFun.s: demo/mallocAndMemFun.c.s
+demoC/extern/externEvery2.s: demoC/extern/externEvery2.c.s
 
-.PHONY : demo/mallocAndMemFun.s
+.PHONY : demoC/extern/externEvery2.s
 
 # target to generate assembly for a file
-demo/mallocAndMemFun.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/mallocAndMemFun.c.s
-.PHONY : demo/mallocAndMemFun.c.s
+demoC/extern/externEvery2.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/extern/externEvery2.c.s
+.PHONY : demoC/extern/externEvery2.c.s
 
-demo/printEvery.o: demo/printEvery.c.o
+demoC/fileOperation.o: demoC/fileOperation.c.o
 
-.PHONY : demo/printEvery.o
+.PHONY : demoC/fileOperation.o
 
 # target to build an object file
-demo/printEvery.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/printEvery.c.o
-.PHONY : demo/printEvery.c.o
+demoC/fileOperation.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/fileOperation.c.o
+.PHONY : demoC/fileOperation.c.o
 
-demo/printEvery.i: demo/printEvery.c.i
+demoC/fileOperation.i: demoC/fileOperation.c.i
 
-.PHONY : demo/printEvery.i
+.PHONY : demoC/fileOperation.i
 
 # target to preprocess a source file
-demo/printEvery.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/printEvery.c.i
-.PHONY : demo/printEvery.c.i
+demoC/fileOperation.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/fileOperation.c.i
+.PHONY : demoC/fileOperation.c.i
 
-demo/printEvery.s: demo/printEvery.c.s
+demoC/fileOperation.s: demoC/fileOperation.c.s
 
-.PHONY : demo/printEvery.s
+.PHONY : demoC/fileOperation.s
 
 # target to generate assembly for a file
-demo/printEvery.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/printEvery.c.s
-.PHONY : demo/printEvery.c.s
+demoC/fileOperation.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/fileOperation.c.s
+.PHONY : demoC/fileOperation.c.s
 
-demo/sizeof.o: demo/sizeof.c.o
+demoC/findStr.o: demoC/findStr.c.o
 
-.PHONY : demo/sizeof.o
+.PHONY : demoC/findStr.o
 
 # target to build an object file
-demo/sizeof.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/sizeof.c.o
-.PHONY : demo/sizeof.c.o
+demoC/findStr.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/findStr.c.o
+.PHONY : demoC/findStr.c.o
 
-demo/sizeof.i: demo/sizeof.c.i
+demoC/findStr.i: demoC/findStr.c.i
 
-.PHONY : demo/sizeof.i
+.PHONY : demoC/findStr.i
 
 # target to preprocess a source file
-demo/sizeof.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/sizeof.c.i
-.PHONY : demo/sizeof.c.i
+demoC/findStr.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/findStr.c.i
+.PHONY : demoC/findStr.c.i
 
-demo/sizeof.s: demo/sizeof.c.s
+demoC/findStr.s: demoC/findStr.c.s
 
-.PHONY : demo/sizeof.s
+.PHONY : demoC/findStr.s
 
 # target to generate assembly for a file
-demo/sizeof.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/sizeof.c.s
-.PHONY : demo/sizeof.c.s
+demoC/findStr.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/findStr.c.s
+.PHONY : demoC/findStr.c.s
 
-demo/strCharArrayChange.o: demo/strCharArrayChange.c.o
+demoC/localVariableStaticAll.o: demoC/localVariableStaticAll.c.o
 
-.PHONY : demo/strCharArrayChange.o
+.PHONY : demoC/localVariableStaticAll.o
 
 # target to build an object file
-demo/strCharArrayChange.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/strCharArrayChange.c.o
-.PHONY : demo/strCharArrayChange.c.o
+demoC/localVariableStaticAll.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.o
+.PHONY : demoC/localVariableStaticAll.c.o
 
-demo/strCharArrayChange.i: demo/strCharArrayChange.c.i
+demoC/localVariableStaticAll.i: demoC/localVariableStaticAll.c.i
 
-.PHONY : demo/strCharArrayChange.i
+.PHONY : demoC/localVariableStaticAll.i
 
 # target to preprocess a source file
-demo/strCharArrayChange.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/strCharArrayChange.c.i
-.PHONY : demo/strCharArrayChange.c.i
+demoC/localVariableStaticAll.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.i
+.PHONY : demoC/localVariableStaticAll.c.i
 
-demo/strCharArrayChange.s: demo/strCharArrayChange.c.s
+demoC/localVariableStaticAll.s: demoC/localVariableStaticAll.c.s
 
-.PHONY : demo/strCharArrayChange.s
+.PHONY : demoC/localVariableStaticAll.s
 
 # target to generate assembly for a file
-demo/strCharArrayChange.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/strCharArrayChange.c.s
-.PHONY : demo/strCharArrayChange.c.s
+demoC/localVariableStaticAll.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/localVariableStaticAll.c.s
+.PHONY : demoC/localVariableStaticAll.c.s
 
-demo/stringmethod.o: demo/stringmethod.c.o
+demoC/mallocAndMemFun.o: demoC/mallocAndMemFun.c.o
 
-.PHONY : demo/stringmethod.o
+.PHONY : demoC/mallocAndMemFun.o
 
 # target to build an object file
-demo/stringmethod.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/stringmethod.c.o
-.PHONY : demo/stringmethod.c.o
+demoC/mallocAndMemFun.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.o
+.PHONY : demoC/mallocAndMemFun.c.o
 
-demo/stringmethod.i: demo/stringmethod.c.i
+demoC/mallocAndMemFun.i: demoC/mallocAndMemFun.c.i
 
-.PHONY : demo/stringmethod.i
+.PHONY : demoC/mallocAndMemFun.i
 
 # target to preprocess a source file
-demo/stringmethod.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/stringmethod.c.i
-.PHONY : demo/stringmethod.c.i
+demoC/mallocAndMemFun.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.i
+.PHONY : demoC/mallocAndMemFun.c.i
 
-demo/stringmethod.s: demo/stringmethod.c.s
+demoC/mallocAndMemFun.s: demoC/mallocAndMemFun.c.s
 
-.PHONY : demo/stringmethod.s
+.PHONY : demoC/mallocAndMemFun.s
 
 # target to generate assembly for a file
-demo/stringmethod.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/stringmethod.c.s
-.PHONY : demo/stringmethod.c.s
+demoC/mallocAndMemFun.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/mallocAndMemFun.c.s
+.PHONY : demoC/mallocAndMemFun.c.s
 
-demo/structAll.o: demo/structAll.c.o
+demoC/printEvery.o: demoC/printEvery.c.o
 
-.PHONY : demo/structAll.o
+.PHONY : demoC/printEvery.o
 
 # target to build an object file
-demo/structAll.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/structAll.c.o
-.PHONY : demo/structAll.c.o
+demoC/printEvery.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/printEvery.c.o
+.PHONY : demoC/printEvery.c.o
 
-demo/structAll.i: demo/structAll.c.i
+demoC/printEvery.i: demoC/printEvery.c.i
 
-.PHONY : demo/structAll.i
+.PHONY : demoC/printEvery.i
 
 # target to preprocess a source file
-demo/structAll.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/structAll.c.i
-.PHONY : demo/structAll.c.i
+demoC/printEvery.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/printEvery.c.i
+.PHONY : demoC/printEvery.c.i
 
-demo/structAll.s: demo/structAll.c.s
+demoC/printEvery.s: demoC/printEvery.c.s
 
-.PHONY : demo/structAll.s
+.PHONY : demoC/printEvery.s
 
 # target to generate assembly for a file
-demo/structAll.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/structAll.c.s
-.PHONY : demo/structAll.c.s
+demoC/printEvery.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/printEvery.c.s
+.PHONY : demoC/printEvery.c.s
 
-demo/swap.o: demo/swap.c.o
+demoC/sizeof.o: demoC/sizeof.c.o
 
-.PHONY : demo/swap.o
+.PHONY : demoC/sizeof.o
 
 # target to build an object file
-demo/swap.c.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/swap.c.o
-.PHONY : demo/swap.c.o
+demoC/sizeof.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/sizeof.c.o
+.PHONY : demoC/sizeof.c.o
 
-demo/swap.i: demo/swap.c.i
+demoC/sizeof.i: demoC/sizeof.c.i
 
-.PHONY : demo/swap.i
+.PHONY : demoC/sizeof.i
 
 # target to preprocess a source file
-demo/swap.c.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/swap.c.i
-.PHONY : demo/swap.c.i
+demoC/sizeof.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/sizeof.c.i
+.PHONY : demoC/sizeof.c.i
 
-demo/swap.s: demo/swap.c.s
+demoC/sizeof.s: demoC/sizeof.c.s
 
-.PHONY : demo/swap.s
+.PHONY : demoC/sizeof.s
 
 # target to generate assembly for a file
-demo/swap.c.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demo/swap.c.s
-.PHONY : demo/swap.c.s
+demoC/sizeof.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/sizeof.c.s
+.PHONY : demoC/sizeof.c.s
+
+demoC/strCharArrayChange.o: demoC/strCharArrayChange.c.o
+
+.PHONY : demoC/strCharArrayChange.o
+
+# target to build an object file
+demoC/strCharArrayChange.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.o
+.PHONY : demoC/strCharArrayChange.c.o
+
+demoC/strCharArrayChange.i: demoC/strCharArrayChange.c.i
+
+.PHONY : demoC/strCharArrayChange.i
+
+# target to preprocess a source file
+demoC/strCharArrayChange.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.i
+.PHONY : demoC/strCharArrayChange.c.i
+
+demoC/strCharArrayChange.s: demoC/strCharArrayChange.c.s
+
+.PHONY : demoC/strCharArrayChange.s
+
+# target to generate assembly for a file
+demoC/strCharArrayChange.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/strCharArrayChange.c.s
+.PHONY : demoC/strCharArrayChange.c.s
+
+demoC/stringmethod.o: demoC/stringmethod.c.o
+
+.PHONY : demoC/stringmethod.o
+
+# target to build an object file
+demoC/stringmethod.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/stringmethod.c.o
+.PHONY : demoC/stringmethod.c.o
+
+demoC/stringmethod.i: demoC/stringmethod.c.i
+
+.PHONY : demoC/stringmethod.i
+
+# target to preprocess a source file
+demoC/stringmethod.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/stringmethod.c.i
+.PHONY : demoC/stringmethod.c.i
+
+demoC/stringmethod.s: demoC/stringmethod.c.s
+
+.PHONY : demoC/stringmethod.s
+
+# target to generate assembly for a file
+demoC/stringmethod.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/stringmethod.c.s
+.PHONY : demoC/stringmethod.c.s
+
+demoC/structAll.o: demoC/structAll.c.o
+
+.PHONY : demoC/structAll.o
+
+# target to build an object file
+demoC/structAll.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/structAll.c.o
+.PHONY : demoC/structAll.c.o
+
+demoC/structAll.i: demoC/structAll.c.i
+
+.PHONY : demoC/structAll.i
+
+# target to preprocess a source file
+demoC/structAll.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/structAll.c.i
+.PHONY : demoC/structAll.c.i
+
+demoC/structAll.s: demoC/structAll.c.s
+
+.PHONY : demoC/structAll.s
+
+# target to generate assembly for a file
+demoC/structAll.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/structAll.c.s
+.PHONY : demoC/structAll.c.s
+
+demoC/swap.o: demoC/swap.c.o
+
+.PHONY : demoC/swap.o
+
+# target to build an object file
+demoC/swap.c.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/swap.c.o
+.PHONY : demoC/swap.c.o
+
+demoC/swap.i: demoC/swap.c.i
+
+.PHONY : demoC/swap.i
+
+# target to preprocess a source file
+demoC/swap.c.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/swap.c.i
+.PHONY : demoC/swap.c.i
+
+demoC/swap.s: demoC/swap.c.s
+
+.PHONY : demoC/swap.s
+
+# target to generate assembly for a file
+demoC/swap.c.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC/swap.c.s
+.PHONY : demoC/swap.c.s
 
 main.o: main.cpp.o
 
@@ -621,54 +702,63 @@ help:
 	@echo "... array_pointer.o"
 	@echo "... array_pointer.i"
 	@echo "... array_pointer.s"
-	@echo "... demo/arrayToPointer.o"
-	@echo "... demo/arrayToPointer.i"
-	@echo "... demo/arrayToPointer.s"
-	@echo "... demo/arraycopy.o"
-	@echo "... demo/arraycopy.i"
-	@echo "... demo/arraycopy.s"
-	@echo "... demo/const.o"
-	@echo "... demo/const.i"
-	@echo "... demo/const.s"
-	@echo "... demo/deleteSpace.o"
-	@echo "... demo/deleteSpace.i"
-	@echo "... demo/deleteSpace.s"
-	@echo "... demo/extern/externEvery.o"
-	@echo "... demo/extern/externEvery.i"
-	@echo "... demo/extern/externEvery.s"
-	@echo "... demo/extern/externEvery2.o"
-	@echo "... demo/extern/externEvery2.i"
-	@echo "... demo/extern/externEvery2.s"
-	@echo "... demo/fileOperation.o"
-	@echo "... demo/fileOperation.i"
-	@echo "... demo/fileOperation.s"
-	@echo "... demo/findStr.o"
-	@echo "... demo/findStr.i"
-	@echo "... demo/findStr.s"
-	@echo "... demo/localVariableStaticAll.o"
-	@echo "... demo/localVariableStaticAll.i"
-	@echo "... demo/localVariableStaticAll.s"
-	@echo "... demo/mallocAndMemFun.o"
-	@echo "... demo/mallocAndMemFun.i"
-	@echo "... demo/mallocAndMemFun.s"
-	@echo "... demo/printEvery.o"
-	@echo "... demo/printEvery.i"
-	@echo "... demo/printEvery.s"
-	@echo "... demo/sizeof.o"
-	@echo "... demo/sizeof.i"
-	@echo "... demo/sizeof.s"
-	@echo "... demo/strCharArrayChange.o"
-	@echo "... demo/strCharArrayChange.i"
-	@echo "... demo/strCharArrayChange.s"
-	@echo "... demo/stringmethod.o"
-	@echo "... demo/stringmethod.i"
-	@echo "... demo/stringmethod.s"
-	@echo "... demo/structAll.o"
-	@echo "... demo/structAll.i"
-	@echo "... demo/structAll.s"
-	@echo "... demo/swap.o"
-	@echo "... demo/swap.i"
-	@echo "... demo/swap.s"
+	@echo "... demoC++/emun.o"
+	@echo "... demoC++/emun.i"
+	@echo "... demoC++/emun.s"
+	@echo "... demoC++/namespace.o"
+	@echo "... demoC++/namespace.i"
+	@echo "... demoC++/namespace.s"
+	@echo "... demoC++/yinYongInC++.o"
+	@echo "... demoC++/yinYongInC++.i"
+	@echo "... demoC++/yinYongInC++.s"
+	@echo "... demoC/arrayToPointer.o"
+	@echo "... demoC/arrayToPointer.i"
+	@echo "... demoC/arrayToPointer.s"
+	@echo "... demoC/arraycopy.o"
+	@echo "... demoC/arraycopy.i"
+	@echo "... demoC/arraycopy.s"
+	@echo "... demoC/const.o"
+	@echo "... demoC/const.i"
+	@echo "... demoC/const.s"
+	@echo "... demoC/deleteSpace.o"
+	@echo "... demoC/deleteSpace.i"
+	@echo "... demoC/deleteSpace.s"
+	@echo "... demoC/extern/externEvery.o"
+	@echo "... demoC/extern/externEvery.i"
+	@echo "... demoC/extern/externEvery.s"
+	@echo "... demoC/extern/externEvery2.o"
+	@echo "... demoC/extern/externEvery2.i"
+	@echo "... demoC/extern/externEvery2.s"
+	@echo "... demoC/fileOperation.o"
+	@echo "... demoC/fileOperation.i"
+	@echo "... demoC/fileOperation.s"
+	@echo "... demoC/findStr.o"
+	@echo "... demoC/findStr.i"
+	@echo "... demoC/findStr.s"
+	@echo "... demoC/localVariableStaticAll.o"
+	@echo "... demoC/localVariableStaticAll.i"
+	@echo "... demoC/localVariableStaticAll.s"
+	@echo "... demoC/mallocAndMemFun.o"
+	@echo "... demoC/mallocAndMemFun.i"
+	@echo "... demoC/mallocAndMemFun.s"
+	@echo "... demoC/printEvery.o"
+	@echo "... demoC/printEvery.i"
+	@echo "... demoC/printEvery.s"
+	@echo "... demoC/sizeof.o"
+	@echo "... demoC/sizeof.i"
+	@echo "... demoC/sizeof.s"
+	@echo "... demoC/strCharArrayChange.o"
+	@echo "... demoC/strCharArrayChange.i"
+	@echo "... demoC/strCharArrayChange.s"
+	@echo "... demoC/stringmethod.o"
+	@echo "... demoC/stringmethod.i"
+	@echo "... demoC/stringmethod.s"
+	@echo "... demoC/structAll.o"
+	@echo "... demoC/structAll.i"
+	@echo "... demoC/structAll.s"
+	@echo "... demoC/swap.o"
+	@echo "... demoC/swap.i"
+	@echo "... demoC/swap.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
