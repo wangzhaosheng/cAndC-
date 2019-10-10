@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled">
+				<Option output="/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled/fast">
+				<Option output="/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/array_pointer.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/arrayToPointer.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/arraycopy.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/arraycopy.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/const.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/deleteSpace.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/deleteSpace.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery2.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/extern/externEvery2.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/fileOperation.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/findStr.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/localVariableStaticAll.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/mallocAndMemFun.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/printEvery.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/sizeof.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/strCharArrayChange.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/stringmethod.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/structAll.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/structAll.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/swap.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/demo/swap.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/wangzhaosheng/CLionProjects/untitled/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
