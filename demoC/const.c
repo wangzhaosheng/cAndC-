@@ -24,7 +24,7 @@ void canChange3() {
 //    a=2;  语法错误
 
 //todo 一个常量不能变  可以根据指针让他变
-    int *b = &a;//只能写指针,如果写死成1  就不能改了  1放在常量区了
+    int *b = &a;//只能写指针,如果写死成1  就不能改了  1放在常量区了   //todo c++中情况不一样，c++彻底不能修改a
     *b = 2;
     printf("%d\n", a);
 
@@ -51,3 +51,5 @@ void canChange2(char *const ch) { //todo const修饰 char *代表不能修改指
 
 
 }
+
+

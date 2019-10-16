@@ -330,6 +330,71 @@ CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC++/yinYongInC++.cpp -o CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.s
 
+CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o: ../demoC++/functionBackYinYong.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o -c /home/wangzhaosheng/CLionProjects/untitled/demoC++/functionBackYinYong.cpp
+
+CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC++/functionBackYinYong.cpp > CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.i
+
+CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC++/functionBackYinYong.cpp -o CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.s
+
+CMakeFiles/untitled.dir/demoC++/pointer.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC++/pointer.cpp.o: ../demoC++/pointer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/untitled.dir/demoC++/pointer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/demoC++/pointer.cpp.o -c /home/wangzhaosheng/CLionProjects/untitled/demoC++/pointer.cpp
+
+CMakeFiles/untitled.dir/demoC++/pointer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/demoC++/pointer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC++/pointer.cpp > CMakeFiles/untitled.dir/demoC++/pointer.cpp.i
+
+CMakeFiles/untitled.dir/demoC++/pointer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/demoC++/pointer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC++/pointer.cpp -o CMakeFiles/untitled.dir/demoC++/pointer.cpp.s
+
+CMakeFiles/untitled.dir/demoC++/constReference.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC++/constReference.cpp.o: ../demoC++/constReference.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/untitled.dir/demoC++/constReference.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/demoC++/constReference.cpp.o -c /home/wangzhaosheng/CLionProjects/untitled/demoC++/constReference.cpp
+
+CMakeFiles/untitled.dir/demoC++/constReference.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/demoC++/constReference.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC++/constReference.cpp > CMakeFiles/untitled.dir/demoC++/constReference.cpp.i
+
+CMakeFiles/untitled.dir/demoC++/constReference.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/demoC++/constReference.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC++/constReference.cpp -o CMakeFiles/untitled.dir/demoC++/constReference.cpp.s
+
+CMakeFiles/untitled.dir/demoC++/define.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC++/define.cpp.o: ../demoC++/define.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/untitled.dir/demoC++/define.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/demoC++/define.cpp.o -c /home/wangzhaosheng/CLionProjects/untitled/demoC++/define.cpp
+
+CMakeFiles/untitled.dir/demoC++/define.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/demoC++/define.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC++/define.cpp > CMakeFiles/untitled.dir/demoC++/define.cpp.i
+
+CMakeFiles/untitled.dir/demoC++/define.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/demoC++/define.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC++/define.cpp -o CMakeFiles/untitled.dir/demoC++/define.cpp.s
+
+CMakeFiles/untitled.dir/demoC++/method.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/demoC++/method.cpp.o: ../demoC++/method.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/untitled.dir/demoC++/method.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/demoC++/method.cpp.o -c /home/wangzhaosheng/CLionProjects/untitled/demoC++/method.cpp
+
+CMakeFiles/untitled.dir/demoC++/method.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/demoC++/method.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wangzhaosheng/CLionProjects/untitled/demoC++/method.cpp > CMakeFiles/untitled.dir/demoC++/method.cpp.i
+
+CMakeFiles/untitled.dir/demoC++/method.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/demoC++/method.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wangzhaosheng/CLionProjects/untitled/demoC++/method.cpp -o CMakeFiles/untitled.dir/demoC++/method.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.o" \
@@ -352,7 +417,12 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/demoC/fileOperation.c.o" \
 "CMakeFiles/untitled.dir/demoC++/namespace.cpp.o" \
 "CMakeFiles/untitled.dir/demoC++/emun.cpp.o" \
-"CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o"
+"CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o" \
+"CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o" \
+"CMakeFiles/untitled.dir/demoC++/pointer.cpp.o" \
+"CMakeFiles/untitled.dir/demoC++/constReference.cpp.o" \
+"CMakeFiles/untitled.dir/demoC++/define.cpp.o" \
+"CMakeFiles/untitled.dir/demoC++/method.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -378,9 +448,14 @@ untitled: CMakeFiles/untitled.dir/demoC/fileOperation.c.o
 untitled: CMakeFiles/untitled.dir/demoC++/namespace.cpp.o
 untitled: CMakeFiles/untitled.dir/demoC++/emun.cpp.o
 untitled: CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o
+untitled: CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o
+untitled: CMakeFiles/untitled.dir/demoC++/pointer.cpp.o
+untitled: CMakeFiles/untitled.dir/demoC++/constReference.cpp.o
+untitled: CMakeFiles/untitled.dir/demoC++/define.cpp.o
+untitled: CMakeFiles/untitled.dir/demoC++/method.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

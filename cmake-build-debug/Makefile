@@ -150,6 +150,60 @@ array_pointer.c.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/array_pointer.c.s
 .PHONY : array_pointer.c.s
 
+demoC++/constReference.o: demoC++/constReference.cpp.o
+
+.PHONY : demoC++/constReference.o
+
+# target to build an object file
+demoC++/constReference.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/constReference.cpp.o
+.PHONY : demoC++/constReference.cpp.o
+
+demoC++/constReference.i: demoC++/constReference.cpp.i
+
+.PHONY : demoC++/constReference.i
+
+# target to preprocess a source file
+demoC++/constReference.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/constReference.cpp.i
+.PHONY : demoC++/constReference.cpp.i
+
+demoC++/constReference.s: demoC++/constReference.cpp.s
+
+.PHONY : demoC++/constReference.s
+
+# target to generate assembly for a file
+demoC++/constReference.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/constReference.cpp.s
+.PHONY : demoC++/constReference.cpp.s
+
+demoC++/define.o: demoC++/define.cpp.o
+
+.PHONY : demoC++/define.o
+
+# target to build an object file
+demoC++/define.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/define.cpp.o
+.PHONY : demoC++/define.cpp.o
+
+demoC++/define.i: demoC++/define.cpp.i
+
+.PHONY : demoC++/define.i
+
+# target to preprocess a source file
+demoC++/define.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/define.cpp.i
+.PHONY : demoC++/define.cpp.i
+
+demoC++/define.s: demoC++/define.cpp.s
+
+.PHONY : demoC++/define.s
+
+# target to generate assembly for a file
+demoC++/define.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/define.cpp.s
+.PHONY : demoC++/define.cpp.s
+
 demoC++/emun.o: demoC++/emun.cpp.o
 
 .PHONY : demoC++/emun.o
@@ -177,6 +231,60 @@ demoC++/emun.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/emun.cpp.s
 .PHONY : demoC++/emun.cpp.s
 
+demoC++/functionBackYinYong.o: demoC++/functionBackYinYong.cpp.o
+
+.PHONY : demoC++/functionBackYinYong.o
+
+# target to build an object file
+demoC++/functionBackYinYong.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o
+.PHONY : demoC++/functionBackYinYong.cpp.o
+
+demoC++/functionBackYinYong.i: demoC++/functionBackYinYong.cpp.i
+
+.PHONY : demoC++/functionBackYinYong.i
+
+# target to preprocess a source file
+demoC++/functionBackYinYong.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.i
+.PHONY : demoC++/functionBackYinYong.cpp.i
+
+demoC++/functionBackYinYong.s: demoC++/functionBackYinYong.cpp.s
+
+.PHONY : demoC++/functionBackYinYong.s
+
+# target to generate assembly for a file
+demoC++/functionBackYinYong.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.s
+.PHONY : demoC++/functionBackYinYong.cpp.s
+
+demoC++/method.o: demoC++/method.cpp.o
+
+.PHONY : demoC++/method.o
+
+# target to build an object file
+demoC++/method.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/method.cpp.o
+.PHONY : demoC++/method.cpp.o
+
+demoC++/method.i: demoC++/method.cpp.i
+
+.PHONY : demoC++/method.i
+
+# target to preprocess a source file
+demoC++/method.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/method.cpp.i
+.PHONY : demoC++/method.cpp.i
+
+demoC++/method.s: demoC++/method.cpp.s
+
+.PHONY : demoC++/method.s
+
+# target to generate assembly for a file
+demoC++/method.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/method.cpp.s
+.PHONY : demoC++/method.cpp.s
+
 demoC++/namespace.o: demoC++/namespace.cpp.o
 
 .PHONY : demoC++/namespace.o
@@ -203,6 +311,33 @@ demoC++/namespace.s: demoC++/namespace.cpp.s
 demoC++/namespace.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/namespace.cpp.s
 .PHONY : demoC++/namespace.cpp.s
+
+demoC++/pointer.o: demoC++/pointer.cpp.o
+
+.PHONY : demoC++/pointer.o
+
+# target to build an object file
+demoC++/pointer.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/pointer.cpp.o
+.PHONY : demoC++/pointer.cpp.o
+
+demoC++/pointer.i: demoC++/pointer.cpp.i
+
+.PHONY : demoC++/pointer.i
+
+# target to preprocess a source file
+demoC++/pointer.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/pointer.cpp.i
+.PHONY : demoC++/pointer.cpp.i
+
+demoC++/pointer.s: demoC++/pointer.cpp.s
+
+.PHONY : demoC++/pointer.s
+
+# target to generate assembly for a file
+demoC++/pointer.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/pointer.cpp.s
+.PHONY : demoC++/pointer.cpp.s
 
 demoC++/yinYongInC++.o: demoC++/yinYongInC++.cpp.o
 
@@ -702,12 +837,27 @@ help:
 	@echo "... array_pointer.o"
 	@echo "... array_pointer.i"
 	@echo "... array_pointer.s"
+	@echo "... demoC++/constReference.o"
+	@echo "... demoC++/constReference.i"
+	@echo "... demoC++/constReference.s"
+	@echo "... demoC++/define.o"
+	@echo "... demoC++/define.i"
+	@echo "... demoC++/define.s"
 	@echo "... demoC++/emun.o"
 	@echo "... demoC++/emun.i"
 	@echo "... demoC++/emun.s"
+	@echo "... demoC++/functionBackYinYong.o"
+	@echo "... demoC++/functionBackYinYong.i"
+	@echo "... demoC++/functionBackYinYong.s"
+	@echo "... demoC++/method.o"
+	@echo "... demoC++/method.i"
+	@echo "... demoC++/method.s"
 	@echo "... demoC++/namespace.o"
 	@echo "... demoC++/namespace.i"
 	@echo "... demoC++/namespace.s"
+	@echo "... demoC++/pointer.o"
+	@echo "... demoC++/pointer.i"
+	@echo "... demoC++/pointer.s"
 	@echo "... demoC++/yinYongInC++.o"
 	@echo "... demoC++/yinYongInC++.i"
 	@echo "... demoC++/yinYongInC++.s"

@@ -20,6 +20,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/demoC++/namespace.cpp.o"
   "CMakeFiles/untitled.dir/demoC++/emun.cpp.o"
   "CMakeFiles/untitled.dir/demoC++/yinYongInC++.cpp.o"
+  "CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o"
+  "CMakeFiles/untitled.dir/demoC++/pointer.cpp.o"
+  "CMakeFiles/untitled.dir/demoC++/constReference.cpp.o"
+  "CMakeFiles/untitled.dir/demoC++/define.cpp.o"
+  "CMakeFiles/untitled.dir/demoC++/method.cpp.o"
   "untitled.pdb"
   "untitled"
 )

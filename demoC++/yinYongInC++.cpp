@@ -7,7 +7,7 @@
 
 void change(int & p);
 
-int main(){
+int main1013(){
     int a=3;
     int b =5;
     int & p =a;

@@ -25,7 +25,7 @@ void changePoint2(int **pInt);
 
 void changePoint3(int *pInt);
 
-void main09171045() {
+void main0917() {
     mallocFun();
 
     memsetFun();
