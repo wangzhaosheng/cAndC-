@@ -6,5 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/wangzhaosheng/CLionProjects/untitled/demoC++/define.cpp
+/home/wangzhaosheng/CLionProjects/untitled/demoC++/method.cpp
+cstdio
+-
 

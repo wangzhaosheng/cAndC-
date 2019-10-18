@@ -25,6 +25,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/demoC++/constReference.cpp.o"
   "CMakeFiles/untitled.dir/demoC++/define.cpp.o"
   "CMakeFiles/untitled.dir/demoC++/method.cpp.o"
+  "CMakeFiles/untitled.dir/demoC++/oop.cpp.o"
   "untitled.pdb"
   "untitled"
 )

@@ -312,6 +312,33 @@ demoC++/namespace.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/namespace.cpp.s
 .PHONY : demoC++/namespace.cpp.s
 
+demoC++/oop.o: demoC++/oop.cpp.o
+
+.PHONY : demoC++/oop.o
+
+# target to build an object file
+demoC++/oop.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/oop.cpp.o
+.PHONY : demoC++/oop.cpp.o
+
+demoC++/oop.i: demoC++/oop.cpp.i
+
+.PHONY : demoC++/oop.i
+
+# target to preprocess a source file
+demoC++/oop.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/oop.cpp.i
+.PHONY : demoC++/oop.cpp.i
+
+demoC++/oop.s: demoC++/oop.cpp.s
+
+.PHONY : demoC++/oop.s
+
+# target to generate assembly for a file
+demoC++/oop.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/oop.cpp.s
+.PHONY : demoC++/oop.cpp.s
+
 demoC++/pointer.o: demoC++/pointer.cpp.o
 
 .PHONY : demoC++/pointer.o
@@ -855,6 +882,9 @@ help:
 	@echo "... demoC++/namespace.o"
 	@echo "... demoC++/namespace.i"
 	@echo "... demoC++/namespace.s"
+	@echo "... demoC++/oop.o"
+	@echo "... demoC++/oop.i"
+	@echo "... demoC++/oop.s"
 	@echo "... demoC++/pointer.o"
 	@echo "... demoC++/pointer.i"
 	@echo "... demoC++/pointer.s"

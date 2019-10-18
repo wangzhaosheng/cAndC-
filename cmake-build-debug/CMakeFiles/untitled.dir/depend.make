@@ -51,8 +51,13 @@ CMakeFiles/untitled.dir/demoC++/emun.cpp.o: ../demoC++/emun.cpp
 
 CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o: ../demoC++/functionBackYinYong.cpp
 
+CMakeFiles/untitled.dir/demoC++/method.cpp.o: ../demoC++/method.cpp
+
 CMakeFiles/untitled.dir/demoC++/namespace.cpp.o: ../demoC++/namespace.cpp
 CMakeFiles/untitled.dir/demoC++/namespace.cpp.o: ../demoC++/namespace.h
+
+CMakeFiles/untitled.dir/demoC++/oop.cpp.o: ../demoC++/oop.cpp
+CMakeFiles/untitled.dir/demoC++/oop.cpp.o: ../demoC/structAll.h
 
 CMakeFiles/untitled.dir/demoC++/pointer.cpp.o: ../demoC++/pointer.cpp
 

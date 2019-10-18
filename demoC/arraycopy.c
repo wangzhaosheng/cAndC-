@@ -5,9 +5,10 @@
 #include <stdio.h>
 #include <memory.h>
 #include "arraycopy.h"
-
+struct ddd{
+    int age;
+};
 void main09111102() {
-
     int src[] = {1, 26, 4};
     int dest[100];
     copy(src, dest, 3, 3);
