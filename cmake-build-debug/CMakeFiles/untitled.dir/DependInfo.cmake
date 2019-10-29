@@ -29,6 +29,7 @@ set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/wangzhaosheng/CLionProjects/untitled/demoC++/Stud.cpp" "/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/demoC++/Stud.cpp.o"
   "/home/wangzhaosheng/CLionProjects/untitled/demoC++/constReference.cpp" "/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/demoC++/constReference.cpp.o"
   "/home/wangzhaosheng/CLionProjects/untitled/demoC++/define.cpp" "/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/demoC++/define.cpp.o"
   "/home/wangzhaosheng/CLionProjects/untitled/demoC++/emun.cpp" "/home/wangzhaosheng/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/demoC++/emun.cpp.o"

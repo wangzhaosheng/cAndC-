@@ -26,6 +26,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/demoC++/define.cpp.o"
   "CMakeFiles/untitled.dir/demoC++/method.cpp.o"
   "CMakeFiles/untitled.dir/demoC++/oop.cpp.o"
+  "CMakeFiles/untitled.dir/demoC++/Stud.cpp.o"
   "untitled.pdb"
   "untitled"
 )

@@ -43,6 +43,9 @@ CMakeFiles/untitled.dir/demoC/structAll.c.o: ../demoC/structAll.h
 CMakeFiles/untitled.dir/demoC/swap.c.o: ../demoC/swap.c
 CMakeFiles/untitled.dir/demoC/swap.c.o: ../demoC/swap.h
 
+CMakeFiles/untitled.dir/demoC++/Stud.cpp.o: ../demoC++/Stud.cpp
+CMakeFiles/untitled.dir/demoC++/Stud.cpp.o: ../demoC++/Stud.h
+
 CMakeFiles/untitled.dir/demoC++/constReference.cpp.o: ../demoC++/constReference.cpp
 
 CMakeFiles/untitled.dir/demoC++/define.cpp.o: ../demoC++/define.cpp
@@ -51,6 +54,7 @@ CMakeFiles/untitled.dir/demoC++/emun.cpp.o: ../demoC++/emun.cpp
 
 CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o: ../demoC++/functionBackYinYong.cpp
 
+CMakeFiles/untitled.dir/demoC++/method.cpp.o: ../demoC++/Stud.h
 CMakeFiles/untitled.dir/demoC++/method.cpp.o: ../demoC++/method.cpp
 
 CMakeFiles/untitled.dir/demoC++/namespace.cpp.o: ../demoC++/namespace.cpp

@@ -6,7 +6,27 @@
 
 #IncludeRegexTransform: 
 
+/home/wangzhaosheng/CLionProjects/untitled/demoC++/Stud.cpp
+Stud.h
+/home/wangzhaosheng/CLionProjects/untitled/demoC++/Stud.h
+
+/home/wangzhaosheng/CLionProjects/untitled/demoC++/Stud.h
+clocale
+-
+stdlib.h
+-
+iostream
+-
+cstring
+-
+
 /home/wangzhaosheng/CLionProjects/untitled/demoC++/method.cpp
 cstdio
+-
+sys/stat.h
+-
+Stud.h
+/home/wangzhaosheng/CLionProjects/untitled/demoC++/Stud.h
+time.h
 -
 

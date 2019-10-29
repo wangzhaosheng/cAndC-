@@ -150,6 +150,33 @@ array_pointer.c.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/array_pointer.c.s
 .PHONY : array_pointer.c.s
 
+demoC++/Stud.o: demoC++/Stud.cpp.o
+
+.PHONY : demoC++/Stud.o
+
+# target to build an object file
+demoC++/Stud.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/Stud.cpp.o
+.PHONY : demoC++/Stud.cpp.o
+
+demoC++/Stud.i: demoC++/Stud.cpp.i
+
+.PHONY : demoC++/Stud.i
+
+# target to preprocess a source file
+demoC++/Stud.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/Stud.cpp.i
+.PHONY : demoC++/Stud.cpp.i
+
+demoC++/Stud.s: demoC++/Stud.cpp.s
+
+.PHONY : demoC++/Stud.s
+
+# target to generate assembly for a file
+demoC++/Stud.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/demoC++/Stud.cpp.s
+.PHONY : demoC++/Stud.cpp.s
+
 demoC++/constReference.o: demoC++/constReference.cpp.o
 
 .PHONY : demoC++/constReference.o
@@ -864,6 +891,9 @@ help:
 	@echo "... array_pointer.o"
 	@echo "... array_pointer.i"
 	@echo "... array_pointer.s"
+	@echo "... demoC++/Stud.o"
+	@echo "... demoC++/Stud.i"
+	@echo "... demoC++/Stud.s"
 	@echo "... demoC++/constReference.o"
 	@echo "... demoC++/constReference.i"
 	@echo "... demoC++/constReference.s"

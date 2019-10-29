@@ -43,6 +43,9 @@ CMakeFiles/untitled.dir/demoC/structAll.c.o
 CMakeFiles/untitled.dir/demoC/swap.c.o
  /home/wangzhaosheng/CLionProjects/untitled/demoC/swap.c
  /home/wangzhaosheng/CLionProjects/untitled/demoC/swap.h
+CMakeFiles/untitled.dir/demoC++/Stud.cpp.o
+ /home/wangzhaosheng/CLionProjects/untitled/demoC++/Stud.cpp
+ /home/wangzhaosheng/CLionProjects/untitled/demoC++/Stud.h
 CMakeFiles/untitled.dir/demoC++/constReference.cpp.o
  /home/wangzhaosheng/CLionProjects/untitled/demoC++/constReference.cpp
 CMakeFiles/untitled.dir/demoC++/define.cpp.o
@@ -52,6 +55,7 @@ CMakeFiles/untitled.dir/demoC++/emun.cpp.o
 CMakeFiles/untitled.dir/demoC++/functionBackYinYong.cpp.o
  /home/wangzhaosheng/CLionProjects/untitled/demoC++/functionBackYinYong.cpp
 CMakeFiles/untitled.dir/demoC++/method.cpp.o
+ /home/wangzhaosheng/CLionProjects/untitled/demoC++/Stud.h
  /home/wangzhaosheng/CLionProjects/untitled/demoC++/method.cpp
 CMakeFiles/untitled.dir/demoC++/namespace.cpp.o
  /home/wangzhaosheng/CLionProjects/untitled/demoC++/namespace.cpp
